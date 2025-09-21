@@ -2,8 +2,6 @@
 
 A modern, feature-rich task management dashboard built with React.js, Redux Toolkit, and Tailwind CSS. This application provides a Kanban-style interface for managing tasks with drag-and-drop functionality, advanced filtering, and persistent storage.
 
-![Dashboard Preview](https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&h=600&fit=crop&crop=entropy&auto=format&q=80)
-
 ## 🚀 Features
 
 ### Core Functionality
@@ -60,7 +58,7 @@ A modern, feature-rich task management dashboard built with React.js, Redux Tool
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/creative-upaay-dashboard.git
+   https://github.com/metharishirisha/creative-upaay-Assignment
    cd creative-upaay-dashboard
    ```
 
@@ -248,9 +246,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Creative Upaay Development Team**
-- GitHub: [@creative-upaay](https://github.com/creative-upaay)
-- Email: contact@creativeupaay.com
+- GitHub: https://github.com/metharishirisha/creative-upaay-Assignment
+- live : https://creative-upaay-assignment-theta.vercel.app/
+- video demo : https://www.loom.com/share/a75ba919ac3440fea2904facce524ecd?sid=778aefaa-1cb9-4f58-918a-1a05d01c18f6
+- Email: metharishirisha7@gmail.com
 
 ## 🙏 Acknowledgments
 
